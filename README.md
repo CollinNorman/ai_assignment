@@ -1,1 +1,5 @@
 # ai_assignment
+
+For this assignment, I used ChatGPT to help recreate the credit card faud notebook from the first day of class. Some benefits I see from utilizing AI is that it can help show the format of how to write in a specific code language and provide assistance in answering any coding questions someone might have. For me it is sometimes difficult to remember all the functions and what they do for languages I am coding in so being able to ask AI any specific questions I might have in what certain functions do is beneficial to me and other programmers.
+
+Some dangers with using AI is that people might use it to write whole parts of projects or assignments and then that can lead to other coding issues. This could lead to a lack of human touch on their assignments or other projects someone might be working on. A way I checked the AI's output was making sure it had similar output to the notebook available on BrightSpace. Using the notebook of the assignment as a reference helped me make sure the outputs were verified and completed correctly.
